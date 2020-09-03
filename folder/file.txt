@@ -1,2 +1,3 @@
 some content
-conflicted content
+other content
+
